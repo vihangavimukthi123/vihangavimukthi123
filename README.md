@@ -2,7 +2,7 @@
 
 ---<img width="1584" height="396" alt="Grey and Black Simple Marketing LinkedIn Banner" src="https://github.com/user-attachments/assets/953ade28-5e5e-4658-bb4e-654081a74e04" />
 
-
+---
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img
