@@ -18,7 +18,7 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 # 💫 About Me:
 
-**I am a motivated software engineering student passionate about developing innovative and efficient solutions. I enjoy working on projects that challenge me to grow and apply best practices in software development. Committed to continuous learning, collaboration, and delivering high-quality results.**
+**I am a motivated IT undergraduate passionate about developing innovative and efficient solutions. I enjoy working on projects that challenge me to grow and apply best practices in software development. Committed to continuous learning, collaboration, and delivering high-quality results.**
 
 🌱 **I’m currently learning**<br>-*Full-stack web development with React.js, Node.js, ASP.NET MVC<br>- Mobile app development with Kotlin,Android SDK and Flutter*<br />
 <br />
